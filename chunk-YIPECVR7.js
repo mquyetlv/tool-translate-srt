@@ -1,1 +1,0 @@
-import{ba as e,f as a}from"./chunk-BUHHSWGB.js";var i=class o{loading$=new a;isLoading$=this.loading$.asObservable();setLoading(t){this.loading$.next(t)}static \u0275fac=function(n){return new(n||o)};static \u0275prov=e({token:o,factory:o.\u0275fac,providedIn:"root"})};export{i as a};
